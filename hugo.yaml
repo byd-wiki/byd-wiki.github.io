@@ -1,0 +1,54 @@
+title: BYD Wiki
+module:
+  imports:
+    - path: github.com/imfing/hextra
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+defaultContentLanguage: ru
+
+menu:
+  main:
+    - name: Wiki
+      pageRef: /docs
+      weight: 1
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    - name: GitHub
+      weight: 10
+      url: "https://github.com/byd-wiki/byd-wiki"
+      params:
+        icon: github
+    - name: telegram
+      weight: 15
+      url: "https://t.me/byd_ota"
+      params:
+        icon: telegram
+
+params:
+  theme:
+    default: dark
+    displayToggle: true
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  editURL:
+    enable: true
+    base: "https://github.com/byd-wiki/byd-wiki/edit/main/content"
+
+  externalLinkDecoration: true
