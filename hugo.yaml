@@ -25,7 +25,7 @@ menu:
         type: search
     - name: GitHub
       weight: 10
-      url: "https://github.com/byd-wiki/byd-wiki"
+      url: "https://github.com/byd-wiki/byd-wiki.github.io"
       params:
         icon: github
     - name: telegram
@@ -49,6 +49,6 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/byd-wiki/byd-wiki/edit/main/content"
+    base: "https://github.com/byd-wiki/byd-wiki.github.io/edit/main/content"
 
   externalLinkDecoration: true
