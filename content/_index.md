@@ -14,4 +14,5 @@ toc: true
   {{< card link="docs/ma" title="Мастер-аккаунт" icon="cloud" >}}
   {{< card link="docs/internet" title="Интернет" icon="globe-alt" >}}
   {{< card link="docs/head-unit/firmware" title="Прошивка ГУ" icon="cog" >}}
+  {{< card link="docs/software" title="Программы" icon="device-tablet" >}}
 {{< /cards >}}
