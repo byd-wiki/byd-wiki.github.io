@@ -31,12 +31,12 @@ adb shell pm enable com.byd.otaupdate
 111 = unupgradable version
 ```
 
-Узнать последнюю `OTA` для своего автомобиля можно на официальном ресурсе `BYD`:
+Узнать, ведется ли сейчас рассылка `OTA` для своего автомобиля, можно на официальном ресурсе `BYD` (требуется ввести VIN-номер):
 
-- Модели серии *Ocean* (Seagull, Dolphin, Seal, Sealion, Song Plus): https://svc.byd.com/OTA/BYDHY.html
-- Модели серии *Dynasty* (Qin, Yuan, Song, Han, Tang): https://svc.byd.com/OTA/BYDWC.html
-- Модели серии *Denza* (D9, N7, Z9): https://svc.byd.com/OTA/TS.html
-- Модели серии *Leopard* (3, 7, 5, 8): https://svc.byd.com/OTA/FCB.html
+- Модели *BYD*: https://csccim.byd.com/H5/mobile/otaQuery
+- Модели серии *Denza* (D9, N7, Z9): https://csccim.tengshiauto.com/H5/mobile/otaQuery
+- Модели серии *Leopard* (3, 7, 5, 8): https://csccopen.fangchengbao.com/im/H5/mobile/otaQuery
+- Модели Yangwang: https://csccim.yangwangauto.com/H5/mobile/otaQuery
 
 
 ## Ошибка установки OTA

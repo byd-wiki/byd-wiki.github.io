@@ -21,6 +21,11 @@ weight: 11
 - TripInfo: https://github.com/moskito2803/TripInfo-Releases
 
 
+## YouTube
+
+- Необходимо установить из https://vanced.to/ ReVanced Manager, а из него уже - YouTube и другие приложения
+
+
 ## Другое
 
 - Aurora Store (BYD Variant): https://github.com/kangrio/AuroraStore-BYD
