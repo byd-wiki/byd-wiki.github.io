@@ -35,8 +35,11 @@ weight: 5
 
 {{< callout type="note" >}}
   Энтузиастами выполнен перевод официального приложения на английский, арабский, русский и испанский языки, а также реализован функционал открытия авто при приближении (Bluetooth walk-up unlock):
-  - iOS: https://shihabal3amri.github.io/BYD-iOS/
-  - Android: https://shihabal3amri.github.io/BYD-Android/
+
+  ~~- iOS: https://shihabal3amri.github.io/BYD-iOS/~~
+  ~~- Android: https://shihabal3amri.github.io/BYD-Android/~~
+  
+  UPD: GitHub-репозитории разработчика заблокированы по требованию BYD. Приложение для Android/iOS можно поискать в telegram-канале [BYD OTA](https://t.me/byd_ota) - поиск по "SuperApp", "BYD-iOS"
 {{< /callout >}}
 
 

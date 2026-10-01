@@ -15,4 +15,5 @@ toc: true
   {{< card link="docs/internet" title="Интернет" icon="globe-alt" >}}
   {{< card link="docs/head-unit/firmware" title="Прошивка ГУ" icon="cog" >}}
   {{< card link="docs/software" title="Программы" icon="device-tablet" >}}
+  {{< card link="docs/manuals" title="Руководства" icon="book-open" >}}
 {{< /cards >}}
