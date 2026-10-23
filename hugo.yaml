@@ -52,3 +52,5 @@ params:
     base: "https://github.com/byd-wiki/byd-wiki.github.io/edit/main/content"
 
   externalLinkDecoration: true
+  imageZoom:
+    enable: true

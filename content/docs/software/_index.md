@@ -20,6 +20,7 @@ weight: 11
 - DashCast: https://github.com/Kiroha/byd-dashcast
 - OverDrive (Advanced Sentry Mode): https://github.com/yash-srivastava/Overdrive-release
 - TripInfo: https://github.com/moskito2803/TripInfo-Releases
+- Trip Recorder NG: https://github.com/3freet/Trip-Recorder-NG
 
 
 ## YouTube
@@ -38,3 +39,8 @@ Telegram-канал по DiPlay и DiAuto: https://t.me/byd_localized
 ## Другое
 
 - Aurora Store (BYD Variant): https://github.com/kangrio/AuroraStore-BYD
+
+
+## Прошивки
+
+- https://pan.zoroli.com/

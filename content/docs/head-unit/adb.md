@@ -2,7 +2,7 @@
 title: ADB
 type: docs
 weight: 30
-prev: /docs/head-unit/fastboot
+prev: /docs/head-unit/recovery
 next: /docs/head-unit/logcontrol
 ---
 

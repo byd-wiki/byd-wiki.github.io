@@ -3,7 +3,7 @@ title: Меню разработчика
 type: docs
 weight: 22
 prev: /docs/head-unit/ota
-next: /docs/head-unit/fastboot
+next: /docs/head-unit/recovery
 ---
 
 ## Меню разработчика (Developer tools)
