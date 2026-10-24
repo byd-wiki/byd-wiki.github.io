@@ -13,7 +13,7 @@ Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/), [Go](http
 
 ```shell
 # Clone the repo
-git clone https://github.com/imfing/hextra-starter-template.git
+git clone https://github.com/byd-wiki/byd-wiki.github.io.git
 
 # Change directory
 cd hextra-starter-template
